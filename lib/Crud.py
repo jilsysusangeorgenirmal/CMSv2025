@@ -1,2 +1,2 @@
 class Crud:
-    pass
+    print("hello")
